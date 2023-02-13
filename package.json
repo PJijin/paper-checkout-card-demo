@@ -1,5 +1,5 @@
 {
-  "name": "hodlerdrop",
+  "name": "paper-checkout-card-demo",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,14 +10,17 @@
   },
   "dependencies": {
     "@next/font": "13.1.6",
+    "@paperxyz/react-client-sdk": "^0.8.13",
     "@types/node": "18.13.0",
     "@types/react": "18.0.27",
     "@types/react-dom": "18.0.10",
     "eslint": "8.33.0",
     "eslint-config-next": "13.1.6",
+    "ethers": "^6.0.3",
     "next": "13.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "typescript": "4.9.5"
+    "typescript": "4.9.5",
+    "wagmi": "^0.11.5"
   }
 }
